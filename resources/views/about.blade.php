@@ -193,7 +193,7 @@
 
     <section id="vision-mission" class="py-24 bg-white px-6">
         <div class="container mx-auto text-center mb-16">
-            <h2 class="text-6xl font-bold text-[#1C1C84] mb-4">Our Vision & Mission</h2>
+            <h2 class="text-6xl font-bold text-[#1C1C84] mb-4">ACLC Vision & Mission</h2>
             <p class="text-gray-500 text-2xl">Building a future where mental wellness is accessible, proactive, and free from stigma.</p>
         </div>
 
@@ -208,10 +208,9 @@
                         </svg>
                     </div>
                 </div>
-                <h3 class="text-3xl font-bold text-[#1C1C84] mb-4">Our Vision</h3>
+                <h3 class="text-3xl font-bold text-[#1C1C84] mb-4"> Vision</h3>
                 <p class="text-black opacity-80 text-lg leading-relaxed">
-                    A world where mental health support is as accessible and normalized as physical healthcare, empowering individuals to take control of their emotional well-being.<br> <br>
-                    We envision a future where AI technology bridges the gap between awareness and actin, making stress detection immediate and intervention timely.
+                    The vision of the ACLC College is to become the leader and dominant provider of quality and excellent information technology-based business education and related services in the global market.
                 </p>
             </div>
 
@@ -224,10 +223,9 @@
                         </svg>
                     </div>
                 </div>
-                <h3 class="text-3xl font-bold text-[#1C1C84] mb-4">Our Mission</h3>
+                <h3 class="text-3xl font-bold text-[#1C1C84] mb-4">Mission</h3>
                 <p class="text-black opacity-80 text-lg leading-relaxed">
-                    To provide intelligent, compassionate, and scientifically-backed tools that help individuals identify stress patterns and receive personalized support when they need it most. <br> <br>
-                    We are committed to combining cutting-edge AI with human-centered design to create a safe space for self-reflection and proactive mental health management.
+                    The global mission of ACLC College is to provide a holistic, quality, computer-based education in all levels and disciplines with the objective of producing professionals and leaders responsive to the needs of science and the international community for the honor and glory of God Almighty.
                 </p>
             </div>
         </div>
@@ -235,7 +233,7 @@
 
     <section class="py-24 px-6 bg-white">
         <div class="container mx-auto text-center mb-16">
-            <h2 class="text-6xl font-bold text-[#1C1C84] mb-4">Our Core Values</h2>
+            <h2 class="text-6xl font-bold text-[#1C1C84] mb-4">AI SELF-CHECK CORE VALUES</h2>
             <p class="text-gray-500 text-2xl">Our mission is guided by principles that ensure every interaction is meaningful and secure.</p>
         </div>
 
